@@ -18,4 +18,4 @@ socials (кроме X и bsky) \
 tiktok \
 tools \
 video \
-youtube \
+youtube
