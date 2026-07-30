@@ -16,6 +16,6 @@ news \
 роrn \
 socials (кроме X и bsky) \
 tiktok \
-tools \ 
-video \ 
+tools \
+video \
 youtube \
