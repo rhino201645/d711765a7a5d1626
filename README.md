@@ -20,4 +20,5 @@ socials (кроме X и bsky) \
 tiktok \
 tools \
 video \
-youtube
+youtube \
+ru (все ру сайты)
